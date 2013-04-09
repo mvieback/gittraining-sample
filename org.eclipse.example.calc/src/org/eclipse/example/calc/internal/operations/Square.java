@@ -17,6 +17,7 @@ public class Square extends AbstractOperation implements UnaryOperation {
 
 	@Override
 	public String getName() {
+		// comment
 		return "x²";
 	}
 
